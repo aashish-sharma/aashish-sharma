@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hi, I'm Aashish Sharma
+## Hi, I'm Aashish Sharma👋
 
 I'm a first-year Electronics and Communication Engineering (AI & ML) student at Netaji Subhas University of Technology (NSUT), Delhi.
 
@@ -25,7 +23,7 @@ I'm interested in software development, artificial intelligence, machine learnin
 
 ## Connect With Me
 
-- **LinkedIn:** [Aashish Sharma](www.linkedin.com/in/aashish-sharma-622243308)
+- **LinkedIn:** [Aashish Sharma](www.linkedin.com/in/aashish-sharma2k9)
 - **GitHub:** [aashish-sharma](https://github.com/aashish-sharma)
 
 I'm always open to connecting with people interested in technology, AI/ML, software development, and building things.
